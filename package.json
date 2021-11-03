@@ -2,7 +2,9 @@
   "name": "goit-react-hw-02-feedback",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://denysvitvitskyi.github.io/goit-react-hw-02-feedback/",
   "dependencies": {
+    "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
